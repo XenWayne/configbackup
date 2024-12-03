@@ -1,4 +1,4 @@
 .editor-group-watermark>.letterpress {
-    background-image: url("vscode-moe.png") !important;
+    background-image: url("https://gcore.jsdelivr.net/gh/XenWayne/configbackup@master/vscode_custom/vscode-moe.png") !important;
     opacity: .75;
 }
