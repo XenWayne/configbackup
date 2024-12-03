@@ -1,0 +1,4 @@
+.editor-group-watermark>.letterpress {
+    background-image: url("vscode-moe.png") !important;
+    opacity: .75;
+}
